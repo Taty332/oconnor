@@ -56,6 +56,9 @@ header {
         height: 60px;
         margin-left: 30px;
     }
+    .testlogo{
+        margin-top: 20px;
+    }
 
     .navbar .nav-links ul {
         display: flex;
