@@ -172,13 +172,6 @@ nav ul li a:hover {
         text-align: center;
         margin-bottom: 20px;
     }
-
-    .imagecontact img{
-        max-width: 100%;
-    }
-    .image-title{
-        word-break:break-all
-    }
 }
 
 /* Carousel Container */
@@ -624,16 +617,7 @@ button {
         margin-bottom: 20px;
     }
 
-.contacteznous {
-    display: flex;
-    gap: 30px;
-}
-
-.imagecontact img {
-    max-width: 55%;
-    height: 45%;
-    border-radius: 5px;
-}
+<br>
 
 .infos p {
     font-size: 1rem;
